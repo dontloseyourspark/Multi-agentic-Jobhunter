@@ -19,4 +19,6 @@ At the end, you’ll get a simple Gradio interface — turning this system into 
 📖 Read the full story: I Built a Team of AI Agents to Automate My Job Hunt
 Read the blog: [I Built a Team of AI Agents to Automate My Job Hunt](https://kaifkohari10.medium.com/i-built-a-team-of-ai-agents-to-automate-my-job-hunt-9f210c8a20b2)
 
-
+---- MAJOR Fixes - @dontloseyourspark ----
+1. Fixed an issue where the returned .md files were truncated and not displayed in full when asking for a cv review and tips
+2. 
