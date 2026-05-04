@@ -23,3 +23,5 @@ Read the blog: [I Built a Team of AI Agents to Automate My Job Hunt](https://kai
 1. Fixed an issue where the returned .md files were truncated and not displayed in full when asking for a cv review and tips
 2. After commiting an action, your CV is remembered, so you don't have to reupload every time
 3. Changed the output to either a .docx (Word) or a .pdf file
+4. Added the option to translate to Dutch
+5. Added the option for a templated cover letter vs. freestyle
