@@ -25,3 +25,4 @@ Read the blog: [I Built a Team of AI Agents to Automate My Job Hunt](https://kai
 3. Changed the output to either a .docx (Word) or a .pdf file
 4. Added the option to translate to Dutch
 5. Added the option for a templated cover letter vs. freestyle
+6. Fixed some issues
